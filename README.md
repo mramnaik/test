@@ -8,11 +8,11 @@
 -->
 
 # Introduction to GitHub
-
+# Hello world
 _Get started using GitHub in less than an hour._
 
 </header>
-
+Author - Ram (ram)
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
